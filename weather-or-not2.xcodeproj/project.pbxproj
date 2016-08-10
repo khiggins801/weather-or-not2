@@ -56,6 +56,9 @@
 		6ABB10161D5BBF4500392CC3 /* weather-or-not2 */ = {
 			isa = PBXGroup;
 			children = (
+				6ABB102E1D5BD3CC00392CC3 /* Controller */,
+				6ABB102D1D5BD3C600392CC3 /* Model */,
+				6ABB102C1D5BD3BF00392CC3 /* View */,
 				6ABB10171D5BBF4500392CC3 /* AppDelegate.swift */,
 				6ABB10191D5BBF4500392CC3 /* ViewController.swift */,
 				6ABB101B1D5BBF4500392CC3 /* Main.storyboard */,
@@ -65,6 +68,27 @@
 				6ABB101E1D5BBF4500392CC3 /* weather_or_not2.xcdatamodeld */,
 			);
 			path = "weather-or-not2";
+			sourceTree = "<group>";
+		};
+		6ABB102C1D5BD3BF00392CC3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		6ABB102D1D5BD3C600392CC3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		6ABB102E1D5BD3CC00392CC3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
